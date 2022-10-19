@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        // Задание 4
+         // Задание 4
         System.out.println("Задание 4");
         var friend = 19;
         System.out.println(friend);
@@ -9,7 +9,7 @@ public class Main {
         friend /= 7;
         System.out.println(friend);
 
-        // Задание 5
+         // Задание 5
         System.out.println("Задание 5");
         var frog = 3.5;
         System.out.println(frog);
